@@ -1,7 +1,7 @@
 package job.endpoint.service.jobendpointservice.model;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
-import com.sun.xml.internal.ws.developer.Serialization;
+import com.sun.xml.ws.developer.Serialization;
 
 @Serialization
 public class Job {
